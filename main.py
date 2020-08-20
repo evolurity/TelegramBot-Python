@@ -90,7 +90,7 @@ def bot(text):
 from aiogram import Bot, Dispatcher, executor, types
 
 
-API_TOKEN = '1313962816:AAF7vdy1Bnoh-X8E2xUN-mB1tWVFdzIF9Ro'
+API_TOKEN = '1313962816:AAF7vdy1Bnoh-X8E2xUN-mBVFdzIF9Ro'
 #Nick my BOT in Telegram -  WonderfulFuck_Films_Bot
 
 
